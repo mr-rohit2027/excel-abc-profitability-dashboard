@@ -50,6 +50,5 @@ Download the `.xlsx` file from this repository to explore the dashboard and its 
 
 This project helped me practice Excel-based data analysis, business reporting, and dashboard creation. It demonstrates how sales data can be presented visually to support business decisions.
 
-## Dashboard Preview
-![ABS Executive Summary & Profitability Dashboard](dashboard-preview.png)
+
 
